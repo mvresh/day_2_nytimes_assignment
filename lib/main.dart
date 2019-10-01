@@ -36,7 +36,7 @@ void main() {
                 ' PM Modi seeks ideas for his IIT-Madras convocation speech',
                 style: TextStyle(
                 fontWeight: FontWeight.bold,
-                color: Colors.blueGrey),
+                color: Colors.black),
               ),
             ),
           ),
@@ -101,7 +101,7 @@ void main() {
                 'Flooded Roads, Stranded Locals and Warning of More Rains',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    color: Colors.blueGrey),
+                    color: Colors.black),
               ),
             ),
           ),
@@ -166,7 +166,7 @@ void main() {
                 'Saudi crown prince denies ordering Jamal Khashoggi killing',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
-                    color: Colors.blueGrey),
+                    color: Colors.black),
               ),
             ),
           ),
