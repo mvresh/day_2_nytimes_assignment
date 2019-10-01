@@ -105,7 +105,13 @@ void main() {
               ],
             ),
           ),
-          SizedBox(height: 12),
+          SizedBox(height: 3),
+          Container(
+            height: 1,
+            width: double.infinity,
+            color: Colors.black,
+          ),
+          SizedBox(height: 5),
           Padding(
             padding: const EdgeInsets.fromLTRB(10,10,0,0),
             child: Container(
@@ -177,7 +183,13 @@ void main() {
               ],
             ),
           ),
-          SizedBox(height: 12),
+          SizedBox(height: 3),
+          Container(
+            height: 1,
+            width: double.infinity,
+            color: Colors.black,
+          ),
+          SizedBox(height: 5),
           Padding(
             padding: const EdgeInsets.fromLTRB(10,10,0,0),
             child: Container(
@@ -248,6 +260,12 @@ void main() {
                 )
               ],
             ),
+          ),
+          SizedBox(height: 3),
+          Container(
+            height: 1,
+            width: double.infinity,
+            color: Colors.black,
           ),
 
         ],
